@@ -259,7 +259,7 @@
         <dependency>
             <groupId>org.apache.ws.security</groupId>
             <artifactId>wss4j</artifactId>
-            <version>1.6.16</version>
+            <version>1.6.17</version>
         </dependency>
 
         <!-- HtmlUnit dependencies -->
@@ -327,7 +327,7 @@
         <dependency>
             <groupId>com.google.oauth-client</groupId>
             <artifactId>google-oauth-client</artifactId>
-            <version>1.21.0</version>
+            <version>1.31.0</version>
         </dependency>
 
         <!--              -->
